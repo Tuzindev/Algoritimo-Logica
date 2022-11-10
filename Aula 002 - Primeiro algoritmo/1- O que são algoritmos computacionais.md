@@ -1,4 +1,4 @@
-## O que são algoritmos aomputacionais?
+## O que são algoritmos computacionais?
 
 São passos a serem seguidos por um módulo processador e seus respectivos usuários que, quando executados na ordem correta, conseguem realizar determinada tarefa.
 
@@ -28,3 +28,6 @@ reumindo: São rotinas executadas por algum processador
     * ***Portugol*** (mais usado): Lógica do seu programa escrita no seu idioma nativo.
 
 **Portugol** não é uma linguagem de programação, Portugal é uma forma de representar a sua lógica de programação antes de passar para uma linguagem de programação.
+
+<hr/>
+
