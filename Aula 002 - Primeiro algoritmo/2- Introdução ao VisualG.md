@@ -19,3 +19,16 @@ Exemplo:
 Escreval ("Essa frase ira ocupar toda a linha")
 Escreva ("Essa frase ficara na linha de baixo")
 ~~~
+~~~
+Escreva ("msg")
+~~~
+Vai escrever exatamente msg na tela. 
+~~~
+Escreva (msg)
+~~~
+Vai escrever o conteúdo da variável msg, essa variável tem que ser declarada e inicializada.
+~~~
+~~~
+Escreva ("mensagem", msg)
+~~~
+Vai escrever mensagem na tela e em seguida o conteúdo da variável msg.

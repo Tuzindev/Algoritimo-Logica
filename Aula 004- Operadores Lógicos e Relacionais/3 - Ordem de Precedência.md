@@ -1,0 +1,1 @@
+![](../images/ordem%20precendencia%20geral.png%20.png) 
