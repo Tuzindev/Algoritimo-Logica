@@ -24,4 +24,4 @@ Se (dinheiro >= 10000) entao
 FimSe
 ~~~
 
-O nome dessa estrutura, onde existe um bloco sendo executado caso uma expressão seja verdadeira, se chama **Condicional Simples** 
+O nome dessa estrutura, onde existe um bloco sendo executado caso uma expressão seja verdadeira, se chama **Condicional Simples.** 
